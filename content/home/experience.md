@@ -18,27 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Researcher"
+  company = "University of Toronto"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Toronto, ON, Canada"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Frequency emulation for transient stability simulation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "University of Toronto"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto, ON, Canada"
+  date_start = "2012-01-01"
+  date_end = "2020-04-30"
+  description = """Tutorial and/or head lab TA for multiple energy system undergrad course and power system optimiation grad course."""
 
 +++
