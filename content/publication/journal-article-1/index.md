@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://ieeexplore.ieee.org/document/8542721/"
+url_pdf: files/08542721.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
