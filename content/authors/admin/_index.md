@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=CP3RQUYAAAAJ
 - icon: cv
    icon_pack: cv
-   link: static/media/cv.pdf
+   link: media/cv.pdf
 
 #- icon: github
 #  icon_pack: fab
