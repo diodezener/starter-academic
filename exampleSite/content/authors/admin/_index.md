@@ -46,8 +46,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap  # OR `zgoogle-scholar`
+  icon_pack: fas  # OR `ai`
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
@@ -60,7 +60,7 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
+#   icon_pack: cv
 #   link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
