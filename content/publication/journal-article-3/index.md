@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Emulating Synchrophasor Frequency Measurements with Transient Stability Simulation"
 authors:
 - admin
-- Robert Ford
+- J. E. Tate
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "1"
+- "2"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*submitted to IEEE Transactions on Power Systems"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: """
+In transient stability simulators such as PSS/E, the bus frequency is estimated using a window of (positive-sequence) phasor angle measurements.
+A digital filter is often used to account for the filtering effect in actual measurement devices and to eliminate sudden changes during frequency computations.
+Although transient stability simulators label the filtered angle derivative as the ``frequency", the frequency provided by such programs does not match actual measurements reported by phasor measurement units (PMUs), which makes it difficult to gauge the validity of studies (e.g., wide-area event detection and control applications) that are based on such simulations. 
+In this paper, we implement a frequency computation method directly using positive phasor angles provided by simulators.
+The proposed method is tested on two systems extensively and validated against the measurements of an actual PMU.
+The improved frequency measurements closely match PMU responses.
+Cross-validation results also suggest the method may be used for other systems without conducting full time-domain simulations.
+"""
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: media/cv.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,12 +50,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,10 +63,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -74,3 +75,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ -->

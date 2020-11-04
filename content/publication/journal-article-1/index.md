@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "1"
 - "2"
-date: "2015-09-01T00:00:00Z"
+date: "2019-05-01T00:00:00Z"
 doi: "10.1109/TPWRS.2018.2882560"
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +19,12 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Power Systems,34.3, pp. 2152–2159. ISSN: 0885-8950, 1558-0679"
+publication: "* IEEE Transactions on Power Systems ( Volume: 34, Issue: 3, May 2019)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: In this paper, we propose a data-driven load fluctuation model, based on high-resolution historical demand data from multi-regional systems, that can be used for research such as power system generation control studies and probabilistic load flow studies. As in previous studies, the random load fluctuations are modeled as independent Gaussian random variables; however, unlike in previous studies, we do not assume the relationship between the standard deviation and the base demand in each region is known a priori. Instead, we propose a framework for determining the relationship between the base demand level and short-term demand uncertainty. The developed framework has been tested using actual 5-minute demand data from the New York and New Zealand power systems. The results demonstrate that the proposed models outperform those used in previous work. Coefficients of the example cases are included, the parameters of which can be applied to similar multi-region systems.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -62,10 +61,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -74,3 +73,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ -->

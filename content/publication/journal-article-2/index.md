@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "External System Generator Outage Localization Based on Tie-Line Synchrophasor Measurements"
 authors:
 - admin
-- Robert Ford
+- J. E. Tate
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "1"
+- "2"
+date: "2020-03-01T00:00:00Z"
+doi: "10.1109/TPWRS.2019.2942257"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +19,12 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Transactions on Power Systems ( Volume: 35, Issue: 2, March 2020)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: An identification algorithm is proposed for generator outages in external systems given tie-line flow measurements and pre-outage linear sensitivity factors. The problem is challenging due to limited information available to operators in interconnected systems. To overcome the underdetermined nature of the problem (the number of tie-line measurements is smaller than the number of generators), a clustering method based on pivoted QR decomposition is implemented so that the outage location can be identified to the area of origination. Two test systems, the 68-bus New England system and the 500-bus synthetic system, were used for validation. The results demonstrate that with limited knowledge of the external system, the algorithm is able to identify the correct generator cluster in all cases. Another advantage of the proposed algorithm is its high efficiency, which enables detection within sub-milliseconds. In addition, an estimation of the cluster injection change is also provided by the algorithm.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: "https://ieeexplore.ieee.org/document/8843926/"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -43,12 +42,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,10 +55,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -74,3 +67,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ -->
