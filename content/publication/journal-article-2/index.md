@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/08843926.pdf
+url_pdf: media/08843926.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
