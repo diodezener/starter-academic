@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Power Systems ( Volume: 34, Issue: 3, May 2019)"
+publication: "* IEEE Transactions on Power Systems (Volume: 34, Issue: 3, May 2019)"
 publication_short: ""
 
 abstract: In this paper, we propose a data-driven load fluctuation model, based on high-resolution historical demand data from multi-regional systems, that can be used for research such as power system generation control studies and probabilistic load flow studies. As in previous studies, the random load fluctuations are modeled as independent Gaussian random variables; however, unlike in previous studies, we do not assume the relationship between the standard deviation and the base demand in each region is known a priori. Instead, we propose a framework for determining the relationship between the base demand level and short-term demand uncertainty. The developed framework has been tested using actual 5-minute demand data from the New York and New Zealand power systems. The results demonstrate that the proposed models outperform those used in previous work. Coefficients of the example cases are included, the parameters of which can be applied to similar multi-region systems.

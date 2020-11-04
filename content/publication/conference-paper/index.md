@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2020 IEEE Power and Energy Society General Meeting, Montreal, Canda"
+publication: "* 2020 IEEE Power and Energy Society General Meeting, Montreal, Canda"
 publication_short: ""
 
 #abstract: This paper proposes a method of identifying single line outages in power systems based on phasor measurement unit (PMU) measurements and ac power flow models. In addition to the main identification algorithm, a rejection filter is introduced so that the preliminary identified results can be further processed and categorized into three types: correctly identified, misidentified and inconclusive (including correct-filtered and misidentified-filtered). The methods are systematically tested using test systems of various sizes for various PMU placements, and the results show that the proposed identification algorithm has a high identification accuracy and the proposed rejection filter is able to reduce the misidentified rate without significantly increasing the number of inconclusive cases.

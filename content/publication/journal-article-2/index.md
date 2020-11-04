@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Power Systems ( Volume: 35, Issue: 2, March 2020)"
+publication: "* IEEE Transactions on Power Systems (Volume: 35, Issue: 2, March 2020)"
 publication_short: ""
 
 abstract: An identification algorithm is proposed for generator outages in external systems given tie-line flow measurements and pre-outage linear sensitivity factors. The problem is challenging due to limited information available to operators in interconnected systems. To overcome the underdetermined nature of the problem (the number of tie-line measurements is smaller than the number of generators), a clustering method based on pivoted QR decomposition is implemented so that the outage location can be identified to the area of origination. Two test systems, the 68-bus New England system and the 500-bus synthetic system, were used for validation. The results demonstrate that with limited knowledge of the external system, the algorithm is able to identify the correct generator cluster in all cases. Another advantage of the proposed algorithm is its high efficiency, which enables detection within sub-milliseconds. In addition, an estimation of the cluster injection change is also provided by the algorithm.
