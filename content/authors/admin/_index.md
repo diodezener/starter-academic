@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zhendai07@foxmail.com'
+  link: '/#contact'
 #  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
