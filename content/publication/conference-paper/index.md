@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: media/PESGM2020000226.pdf
+url_pdf: files/PESGM2020000226.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
