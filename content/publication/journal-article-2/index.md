@@ -28,7 +28,7 @@ abstract: An identification algorithm is proposed for generator outages in exter
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
