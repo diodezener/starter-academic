@@ -38,9 +38,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'slides/20PESGM0226.pdf'
 url_source: ''
-url_video: ''
+url_video: 'media/20PESGM0226.mp4'
 
 
 # Associated Projects (optional).
