@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "desktop"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Dynamic simulation"
   description = "Transient stability"
   
