@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests event detection and identification, model validation, and wide-area applications in power systems.
 
 interests:
 - Situational Awareness in Power Systems
