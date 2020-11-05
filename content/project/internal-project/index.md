@@ -31,6 +31,6 @@ url_video: ""
 slides: ""
 ---
 
-*   Performed power flow studies and transient stability analysis for benchmark systems and the Ontario power system using different simulation tools (e.g., MATPOWER, PSCAD and PSS/E)
-*   Developed novel line outage and generator outage identification algorithms based on various types of PMU measurements, which improved localization accuracy.
-*	The proposed methods are fast and can be implemented in parallel in utility control centers.
+Performed power flow studies and transient stability analysis for benchmark systems and the Ontario power system using different simulation tools (e.g., MATPOWER, PSCAD and PSS/E)
+Developed novel line outage and generator outage identification algorithms based on various types of PMU measurements, which improved localization accuracy.
+The proposed methods are fast and can be implemented in parallel in utility control centers.
