@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "desktop"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Dynamic simulation"
+  description = "Transient stability"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "wave-sign"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Signal processing"
+  description = "PMU measurements"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "question-square"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "System identification"
+  description = "Parameter fitting"
 
 # Uncomment to use emoji icons.
 # [[feature]]
