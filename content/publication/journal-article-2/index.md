@@ -27,7 +27,11 @@ abstract: An identification algorithm is proposed for generator outages in exter
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- generator outages
+- wide-area power systems
+- identification
+- linear sensitivity factors
+- PMUs
 featured: true
 
 # links:

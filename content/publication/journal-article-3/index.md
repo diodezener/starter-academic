@@ -27,7 +27,10 @@ abstract: In transient stability simulators such as PSS/E, the bus frequency is 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- frequency computation
+- transient stability
+- signal processing
+- PMUs
 featured: false
 
 # links:

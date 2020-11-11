@@ -27,7 +27,11 @@ abstract: In this paper, we propose a data-driven load fluctuation model, based 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- load fluctuation
+- Gaussian distribution
+- multi-region power systems
+- data-driven
+
 featured: false
 
 # links:
