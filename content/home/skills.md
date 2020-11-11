@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "wave-sine"
-  icon_pack = ""
+  icon_pack = "custom"
   name = "Signal processing"
   description = "PMU measurements"  
   
