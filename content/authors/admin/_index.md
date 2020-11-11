@@ -18,7 +18,9 @@ bio: My research interests event detection and identification, model validation,
 
 interests:
 - Situational Awareness in Power Systems
+- Event Detection and Identification
 - Phasor Measurement Units (PMUs)
+- System Identification
 
 education:
   courses:
@@ -69,5 +71,7 @@ user_groups:
 ---
 
 Zhen Dai received the Ph.D. degree in electrical engineering at University of Toronto, Canada, where she continued her research as a postdoctoral fellow. Her research interests are focused on event detection and identification in electric power systems with the help of synchronized measurements. She is passionate about delivering engineering solutions, particularly wide-area applications, to raise situational awareness in power systems. She also holds a Master of Applied Science degree from UofT and a Bachelor of Engineering degree from Tsinghua University, China.
+
+**Currently looking for faculty positions in China and Canada**
 
 In her spare time, Zhen likes to read, practice Chinese calligraphy, and play the violin.

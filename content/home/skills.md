@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "desktop"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Dynamic simulation"
   description = "Transient stability"
   
 [[feature]]
   icon = "wave-sign"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Signal processing"
   description = "PMU measurements"  
   
